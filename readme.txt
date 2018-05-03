@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 git is a distributed version cntrol system.
 git is free software
+=======
+Git is distributed a version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage
+Git tracks changes of files.
+
+>>>>>>> dev
